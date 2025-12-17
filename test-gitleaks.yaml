@@ -1,0 +1,3 @@
+            PassphraseSecretArn: "arn:aws:secretsmanager:eu-central-1:942878658013:secret:sporty/global/prod/overon/8815/medialive/srtcaller/feed-v2-WFrS5m"
+password:""
+jdbcPassword:"hello"
